@@ -40,5 +40,3 @@
 ### License
   * [CERN-OHL-P (permissive)](https://ohwr.org/cern_ohl_p_v2.txt)
   * More information on [CERN Open Hardware License (OHL) v2](https://ohwr.org/project/cernohl/wikis/home)
-
-**需要补充，可能会更改协议。**
