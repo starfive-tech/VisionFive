@@ -3,8 +3,7 @@
 [VisionFive](https://rvspace.org/en/Product/VisionFive/Technical_Documents/VisionFive_Single_Board_Computer_Quick_Start_Guide) is a RISC-V single board computer based on the StarFive JH7100 SoC.
 
 ## How to get VisionFive?
-
-**需要补充：插入购买地址和说明**
+  * Please follow the [Sales Registration](https://forum.rvspace.org/t/how-to-purchase-visionfive/37/4)
 
 ### Hardware
   TBD, we will release hardware design soon.
