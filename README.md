@@ -8,8 +8,6 @@
 ### Hardware
   TBD, we will release hardware design soon.
 
-**正式发布之后补充**
-
 ### Software
   * [U-Boot](https://github.com/starfive-tech/u-boot)
   * [OpenSBI](https://github.com/starfive-tech/opensbi)
