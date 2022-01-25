@@ -11,11 +11,11 @@
 ### Software
   * [secondBoot](https://github.com/starfive-tech/JH7100_secondBoot) first stage bootloader
   * [ddrinit](https://github.com/starfive-tech/JH7100_ddrinit) ddr initialization and carry opensbi+uboot
-  * [OpenSBI](https://github.com/starfive-tech/opensbi) version 0.9
-  * [U-Boot 2022.01-rc2](https://github.com/starfive-tech/u-boot) maintained by [Wei Fu](https://github.com/tekkamanninja)
+  * [OpenSBI](https://github.com/starfive-tech/opensbi) version 1.0
+  * [U-Boot 2022.01-rc4](https://github.com/starfive-tech/u-boot) 
   * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
-  * [Linux Kernel, visionfive](https://github.com/starfive-tech/linux/tree/visionfive) currently 5.16-rc, maintained by [@esmil](https://github.com/esmil/)
-  * [Linux Kernel, visionfive-5.15.y](https://github.com/starfive-tech/linux/tree/visionfive-5.15.y) 5.15 LTS version，maintained by [@esmil](https://github.com/esmil/)
+  * [Linux Kernel, visionfive](https://github.com/starfive-tech/linux/tree/visionfive) 
+  * [Linux Kernel, visionfive-5.15.y-devel](https://github.com/starfive-tech/linux/tree/visionfive-5.15.y-devel) 
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
   * [recovery binary](https://github.com/starfive-tech/bootloader_recovery) used for bootloader recovery
   * [bootloader recovery utility](https://github.com/kprasadvnsi/JH71xx-tools) by [@kprasadvnsi](https://github.com/kprasadvnsi)
