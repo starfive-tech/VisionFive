@@ -6,7 +6,12 @@
   Please follow the [Sales Registration Page](https://forum.rvspace.org/t/how-to-purchase-visionfive/37/4)
 
 ### Hardware
-  TBD, we will release hardware design soon.
+  * [VisionFive schematic design](https://github.com/starfive-tech/VisionFive/blob/main/SCH_VisionFive%20v1_V1.0_20220126.pdf)
+  * [VisionFive top silkscreen file](https://github.com/starfive-tech/VisionFive/blob/main/VisionFive%20v1_V1.0_top.pdf)
+  * [VisionFive bottom silkscreen file](https://github.com/starfive-tech/VisionFive/blob/main/VisionFive%20v1_V1.0_bot.pdf)
+  * [VisionFive top .dxf file](https://github.com/starfive-tech/VisionFive/blob/main/VisionFive%20v1_V1.0_top.dxf)
+  * [VisionFive bottom .dxf file](https://github.com/starfive-tech/VisionFive/blob/main/VisionFive%20v1_V1.0_bot.dxf)
+
 
 ### Software
   * [secondBoot](https://github.com/starfive-tech/JH7100_secondBoot) first stage bootloader
