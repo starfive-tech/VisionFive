@@ -19,7 +19,7 @@
   * [OpenSBI](https://github.com/starfive-tech/opensbi) version 1.0
   * [U-Boot 2022.04-rc2](https://github.com/starfive-tech/u-boot/tree/JH7100_VisionFive_devel) 
   * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
-  * [Linux Kernel, visionfive](https://github.com/starfive-tech/linux/tree/visionfive) 
+  * [Linux Kernel, visionfive](https://github.com/starfive-tech/linux/tree/visionfive) by [Emil Renner Berthing](https://github.com/esmil)
   * [Linux Kernel, visionfive-5.15.y-devel](https://github.com/starfive-tech/linux/tree/visionfive-5.15.y-devel) 
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
   * [recovery binary](https://github.com/starfive-tech/bootloader_recovery) used for bootloader recovery
